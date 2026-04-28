@@ -1,7 +1,13 @@
-vfvHvkduyhfencnfcuhs,djgf
-smc jmjjd v mjhfsd jkhfoujs
- lkjhfelkjfiouew oinmjfisjf
- isjdflsdmnkhfus
- jlkjhgflksjkofjoijs, f ,mjhsmlkjiosjmfm 
+package com.mvit;
 
-jioujmlfkjdsjls,dm sdijoijuoimfd jlklklklklklklklklklklklklklklklklk
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
